@@ -1,0 +1,10 @@
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\bin\Debug\Database1.mdf
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\bin\Debug\Database1_log.ldf
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\bin\Debug\DataLayer.dll.config
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\bin\Debug\DataLayer.dll
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\obj\Debug\DataLayer.dll
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\DataLayer\obj\Debug\DataLayer.pdb

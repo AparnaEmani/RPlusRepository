@@ -1,0 +1,9 @@
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\Database1.mdf
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\Database1_log.ldf
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\DataLayer.dll
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\bin\Debug\DataLayer.pdb
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\lenovo1\documents\visual studio 2015\Projects\WcfService\BusinessLayer\obj\Debug\BusinessLayer.pdb
