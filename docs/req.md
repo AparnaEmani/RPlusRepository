@@ -15,16 +15,19 @@ Support the following use cases:
 2. View added books
 
 
+
 ## Phase-2
 
 1. Create a webservice to insert data into connect front end and databse. It should save the data entered by the user into the databse and retrive when required or viewd.
 2. Create a web service to fetch inserted books for used by list all books view.
 
 
+
 ## Due Dates
 **Phase 1**  
 
-	Please fill  
+	6/7/2016 
 **Phase 2**  
-
-	Please fill  
+	6/8/2016(with unit test cases)
+	
+	 
