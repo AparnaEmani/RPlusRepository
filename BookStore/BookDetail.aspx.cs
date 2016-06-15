@@ -24,7 +24,7 @@ namespace BookStore
         {
             if (FileUpload1.HasFile)
             {
-
+                
                 string str = FileUpload1.FileName;
                 FileUpload1.PostedFile.SaveAs(Server.MapPath("~/Upload/" + str));
                 string Image = "~/Upload/" + str.ToString();
@@ -45,8 +45,8 @@ namespace BookStore
 
             ts.Test1(TextBox1.Text, TextBox2.Text, Convert.ToInt16(TextBox3.Text), FileUpload1.FileBytes);
 
-            
-           
+
+
             //DataTable dt = new DataTable();
             //dt.Columns.Add("Name");
             //dt.Columns.Add("Author");
@@ -60,12 +60,12 @@ namespace BookStore
             //dr["Image"] = md.Image;
             //dt.Rows.Add(dr);
 
-           
+
             //ds.Tables.Add(dt);
 
             //ts.SaveBookInfo(ds);  
-         
 
+            Response.Redirect("HomePage.aspx");
 
 
         }
