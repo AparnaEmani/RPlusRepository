@@ -30,5 +30,10 @@ namespace BusinessLayer
         {
             obj.SaveBookInfo(dss);
         }
+
+        public void Delete(int id)
+        {
+            obj.Delete(id);
+        }
     }
 }
